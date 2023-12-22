@@ -1,4 +1,4 @@
-# Desafio Lógica de Programação com Javascript - Hackerrank
+# Desafio Lógica de Programação com JavaScript - Hackerrank
 
 Este é o repositório referente ao desafio de lógica de programação do curso de desenvolvimento de software back-end da Cubos Academy (Ifood). 
 Link do desafio no hackerrak: [link](https://www.hackerrank.com/desafio-de-logica-modulo-1-b2b-t11-dbe-ifood)
